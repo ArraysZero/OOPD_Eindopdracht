@@ -1,4 +1,4 @@
 package nl.HAN.game.Pizza;
 
-public class Dog {
+public class Dog extends Enemy {
 }

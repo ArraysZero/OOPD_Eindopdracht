@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a2HWRReaTrAXu4Bqt40EllmZ4a" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,9 +25,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../waterworld-and-oopg-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -68,6 +72,7 @@
       <workItem from="1586175383322" duration="1297000" />
       <workItem from="1589717310897" duration="5626000" />
       <workItem from="1590303985779" duration="2319000" />
+      <workItem from="1590318860172" duration="1665000" />
     </task>
     <servers />
   </component>
@@ -75,10 +80,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="931" y="440" key="#com.intellij.ide.util.MemberChooser" timestamp="1586162390759">
+    <state x="931" y="440" key="#com.intellij.ide.util.MemberChooser" timestamp="1590323708981">
       <screen x="0" y="0" width="2250" height="1460" />
     </state>
-    <state x="931" y="440" key="#com.intellij.ide.util.MemberChooser/0.0.2250.1460@0.0.2250.1460" timestamp="1586162390759" />
+    <state x="931" y="440" key="#com.intellij.ide.util.MemberChooser/0.0.2250.1460@0.0.2250.1460" timestamp="1590323708981" />
     <state x="920" y="615" width="408" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586159508836">
       <screen x="0" y="0" width="2250" height="1460" />
     </state>
@@ -139,9 +144,9 @@
       <screen x="0" y="0" width="2250" height="1460" />
     </state>
     <state x="786" y="349" width="672" height="677" key="run.anything.popup/0.0.2250.1460@0.0.2250.1460" timestamp="1586162452256" />
-    <state x="789" y="332" width="672" height="678" key="search.everywhere.popup" timestamp="1590316343306">
+    <state x="790" y="333" width="672" height="678" key="search.everywhere.popup" timestamp="1590322752870">
       <screen x="0" y="0" width="2250" height="1460" />
     </state>
-    <state x="789" y="332" width="672" height="678" key="search.everywhere.popup/0.0.2250.1460@0.0.2250.1460" timestamp="1590316343306" />
+    <state x="790" y="333" width="672" height="678" key="search.everywhere.popup/0.0.2250.1460@0.0.2250.1460" timestamp="1590322752870" />
   </component>
 </project>
