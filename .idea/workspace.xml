@@ -71,9 +71,13 @@
 <<<<<<< HEAD
       <workItem from="1590318860172" duration="4528000" />
       <workItem from="1590417815427" duration="1218000" />
+<<<<<<< HEAD
       <workItem from="1590567704662" duration="1807000" />
 =======
 >>>>>>> parent of 6c3017a... enemy extend
+=======
+      <workItem from="1590567704662" duration="1123000" />
+>>>>>>> parent of cf35512... not
     </task>
     <servers />
   </component>
@@ -86,9 +90,10 @@
       <screen x="0" y="0" width="2250" height="1460" />
     </state>
     <state x="856" y="485" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.2250.1460@0.0.2250.1460" timestamp="1590330100276" />
-    <state x="931" y="440" key="#com.intellij.ide.util.MemberChooser" timestamp="1590575432461">
+    <state x="931" y="440" key="#com.intellij.ide.util.MemberChooser" timestamp="1590330465412">
       <screen x="0" y="0" width="2250" height="1460" />
     </state>
+<<<<<<< HEAD
     <state x="931" y="440" key="#com.intellij.ide.util.MemberChooser/0.0.2250.1460@0.0.2250.1460" timestamp="1590575432461" />
 =======
     <state x="931" y="440" key="#com.intellij.ide.util.MemberChooser" timestamp="1586162390759">
@@ -96,6 +101,9 @@
     </state>
     <state x="931" y="440" key="#com.intellij.ide.util.MemberChooser/0.0.2250.1460@0.0.2250.1460" timestamp="1586162390759" />
 >>>>>>> parent of 6c3017a... enemy extend
+=======
+    <state x="931" y="440" key="#com.intellij.ide.util.MemberChooser/0.0.2250.1460@0.0.2250.1460" timestamp="1590330465412" />
+>>>>>>> parent of cf35512... not
     <state x="920" y="615" width="408" height="235" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586159508836">
       <screen x="0" y="0" width="2250" height="1460" />
     </state>

@@ -1,6 +1,7 @@
 package nl.HAN.game.Pizza;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 import processing.core.PGraphics;
 
 public class Karen extends Enemy {
@@ -29,4 +30,7 @@ public class Karen extends Enemy {
 =======
 public class Karen {
 >>>>>>> parent of 6c3017a... enemy extend
+=======
+public class Karen extends Enemy {
+>>>>>>> parent of cf35512... not
 }
