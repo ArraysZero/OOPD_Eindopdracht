@@ -9,7 +9,7 @@ import processing.core.PVector;
 /**
  * Make your object, extend this class to use your object as a drawable object.
  */
-public abstract class GameObject implements IKeyInput, IMouseInput, PConstants {
+public abstract class GameObject {
 
 	protected float x;
 	protected float y;
