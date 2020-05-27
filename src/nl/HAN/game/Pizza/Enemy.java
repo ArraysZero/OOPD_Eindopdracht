@@ -1,5 +1,6 @@
 package nl.HAN.game.Pizza;
 
+<<<<<<< HEAD
 import nl.HAN.game.oopg.objects.GameObject;
 import processing.core.PGraphics;
 
@@ -36,4 +37,7 @@ public class Enemy extends GameObject {
 	public void move() {
 		super.move();
 	}
+=======
+public class Enemy {
+>>>>>>> parent of 6c3017a... enemy extend
 }

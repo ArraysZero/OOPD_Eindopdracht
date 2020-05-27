@@ -1,5 +1,6 @@
 package nl.HAN.game.Pizza;
 
+<<<<<<< HEAD
 import processing.core.PGraphics;
 
 public class Bird extends Enemy {
@@ -25,4 +26,7 @@ public class Bird extends Enemy {
 	public void move() {
 		super.move();
 	}
+=======
+public class Bird {
+>>>>>>> parent of 6c3017a... enemy extend
 }
