@@ -4,12 +4,22 @@ import nl.HAN.game.oopg.objects.GameObject;
 import processing.core.PGraphics;
 
 public class Enemy extends GameObject {
-	public Enemy() {
-		super();
+	private int health;
+	private float xPos;
+	private float yPos;
+
+
+	public Enemy(int health, float xPos, float yPos) {
+		this.health = health;
+		this.xPos = xPos;
+		this.yPos = yPos;
 	}
 
-	public Enemy(float x, float y, float width, float height) {
+	public Enemy(float x, float y, float width, float height, int health, float xPos, float yPos) {
 		super(x, y, width, height);
+		this.health = health;
+		this.xPos = xPos;
+		this.yPos = yPos;
 	}
 
 	@Override
